@@ -1,0 +1,12 @@
+ExportExcel-Visual.net
+Codigo para exportar a excel desde visual.net con formato
+
+Code for Export gridview to excel from visual.net with format.
+
+ENG.
+
+1.- Import iTextSharp 2.- Copy sub: VerifyRenderingInServerForm 3.- Copy ExportarExcel() 4.- Create datasource for your excel. 4.- Invoke from button or procedure ExportarExcel.
+
+ESP.
+
+1.- Importar iTextSharp 2.- Copia sub: VerifyRenderingInServerForm 3.- Copia ExportarExcel () 4.- Crea una fuente de datos para tu excel. 4.- Invoque desde el botón o procedimiento ExportarExcel.
